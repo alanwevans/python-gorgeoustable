@@ -21,7 +21,7 @@ are either strings suitable for `str.format()` or callables.
 ## Example
 
 
-```
+```python
 import humanize
 from gorgeoustable import GorgeousTable
 
