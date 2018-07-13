@@ -14,7 +14,7 @@ This is by no means a fully fleshed out addition, I just wanted to get something
 
 ## Usage
 
-Use just like PrettyTable, just add a `custom_format` parameter to `PrettyTable(custom_format=...)
+Use just like PrettyTable, just add a `custom_format` parameter to `PrettyTable(custom_format=...)`
 or manipulate `obj.custom_format`.  This is simply a hash whose keys are field names and values
 are either strings suitable for `str.format()` or callables.
 
