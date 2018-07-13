@@ -22,6 +22,7 @@ are either strings suitable for `str.format()` or callables.
 
 
 ```
+import humanize
 from gorgeoustable import GorgeousTable
 
 g = GorgeousTable(
