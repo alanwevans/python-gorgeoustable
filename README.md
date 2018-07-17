@@ -1,4 +1,4 @@
-# Project Title
+# Python Gorgeous Tables
 
 A subclass of https://github.com/dprince/python-prettytable with more advanced column formatting.
 
